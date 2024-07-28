@@ -1,0 +1,2 @@
+# Controlling-the-robot-arm-by-joint_state_publisher-and-Moveit-and-kinematics.
+This project involves setting up and controlling an Arduino-based robot arm using ROS Noetic, RViz, and Gazebo for simulation. The setup includes installing dependencies, building the package, and using MoveIt for motion planning. Users can visualize and control the robot arm in a 3D environment, enabling comprehensive testing and development.
